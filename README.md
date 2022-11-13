@@ -10,7 +10,7 @@
     1. Навчились змінювати данні коду і зрозуміли, що після цих дій ми отримуємо.
 - ![1laba1](https://github.com/DmytroHimzaITCollege/1-laba/blob/main/1laba2.png)
 - ![1laba2](https://github.com/DmytroHimzaITCollege/1-laba/blob/main/1laba1.png) 
-- 
+
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
 from datetime import datetime
