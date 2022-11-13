@@ -8,8 +8,8 @@
     1. Програма запрацювала і вивела у термінал певну інформацію.
     1. Отримано наступні результати: після запуску програми було задіяне наше ім’я.
     1. Навчились змінювати данні коду і зрозуміли, що після цих дій ми отримуємо.
-- ![1laba1](image_2022-11-13_13-02-04.png)
-- ![1laba2](image_2022-11-13_12-57-23.png) 
+- ![1laba1](https://github.com/DmytroHimzaITCollege/1-laba/blob/main/1laba2.png)
+- ![1laba2](https://github.com/DmytroHimzaITCollege/1-laba/blob/main/1laba1.png) 
 
 ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
 
@@ -36,7 +36,7 @@ PS C:\Users\dmitr\OneDrive\Рабочий стол\Навчання\ООП>
     1. Программа не запрацювала.
     1. Отримано наступні результати: після запуску програми, вискочило вікно де писало про те, що йде активація робочого середовища Python та писало про джерело Jupyter (розширення), пройшло пів години очікування і нічого не змінилось.
     1. 
-- ![1laba3]()
+- ![1laba3](https://github.com/DmytroHimzaITCollege/1-laba/blob/main/1laba3.png)
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
